@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashansh2210
 - 👀 I’m interested in Coding and Innovation.
-- 🌱 I’m currently learning DJango
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Internships
 - 📫 Instagram: __prashansh
 
