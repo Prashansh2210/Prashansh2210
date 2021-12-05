@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prashansh2210
 - 👀 I’m interested in Coding and Innovation.
 - 🌱 I’m currently learning DJango
-- 💞️ I’m looking to collaborate on New Ideas
+- 💞️ I’m looking to collaborate on Internships
 - 📫 Instagram: __prashansh
 
 <!---
